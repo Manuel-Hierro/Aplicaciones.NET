@@ -1,0 +1,40 @@
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.exe.config
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.exe
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.pdb
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Login.resources
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Properties.Resources.resources
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.csproj.GenerateResource.Cache
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.exe
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.pdb
+C:\Users\Manuel\Desktop\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Almacen.resources
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.exe.config
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.exe
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.pdb
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.exe
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.pdb
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.csprojResolveAssemblyReference.cache
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Login.resources
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Properties.Resources.resources
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Almacen.resources
+C:\Users\1DAW\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.csproj.GenerateResource.Cache
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.exe.config
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.exe
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.pdb
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.exe
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\bin\Debug\Ejercicio Evaluable - Libreria.pdb
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Login.resources
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Properties.Resources.resources
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio_Evaluable___Libreria.Almacen.resources
+C:\Users\Manuel\Desktop\Testeo\Ejercicio Evaluable - Libreria\obj\Debug\Ejercicio Evaluable - Libreria.csproj.GenerateResource.Cache
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\bin\Debug\Ejercicio Evaluable - Libreria.exe.config
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\obj\Debug\Ejercicio Evaluable - Libreria.exe
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\obj\Debug\Ejercicio Evaluable - Libreria.pdb
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\bin\Debug\Ejercicio Evaluable - Libreria.exe
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\bin\Debug\Ejercicio Evaluable - Libreria.pdb
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\obj\Debug\Ejercicio Evaluable - Libreria.csprojResolveAssemblyReference.cache
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\obj\Debug\Ejercicio_Evaluable___Libreria.Login.resources
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\obj\Debug\Ejercicio_Evaluable___Libreria.Properties.Resources.resources
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\obj\Debug\Ejercicio_Evaluable___Libreria.Almacen.resources
+D:\Programacion 2º Año\3º Evaluacion\3º Evaluacion - Mini Practicas\Tema 10\Ejercicio Evaluable - Libreria Siglo XXI\obj\Debug\Ejercicio Evaluable - Libreria.csproj.GenerateResource.Cache

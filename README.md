@@ -1,5 +1,4 @@
 # Aplicaciones .NET
-----------------------------------------
 # Practica 1º
 Entrenador de operaciones aritméticas
 - 1.1 Suma, resta y multiplicación
